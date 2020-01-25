@@ -1,0 +1,12 @@
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.csprojAssemblyReference.cache
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.Form1.resources
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.Properties.Resources.resources
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.csproj.GenerateResource.cache
+C:\Roman VS\Project_Calculator\Project_Calculator\bin\Debug\Project_Calculator.exe.config
+C:\Roman VS\Project_Calculator\Project_Calculator\bin\Debug\Project_Calculator.exe
+C:\Roman VS\Project_Calculator\Project_Calculator\bin\Debug\Project_Calculator.pdb
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.exe
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.pdb
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.Calculator.resources
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.length.resources
+C:\Roman VS\Project_Calculator\Project_Calculator\obj\Debug\Project_Calculator.weight.resources
